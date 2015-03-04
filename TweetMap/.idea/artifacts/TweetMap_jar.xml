@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="TweetMap:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TweetMap_jar</output-path>
+    <root id="root">
+      <element id="archive" name="TweetMap.jar">
+        <element id="module-output" name="TweetMap" />
+      </element>
+    </root>
+  </artifact>
+</component>

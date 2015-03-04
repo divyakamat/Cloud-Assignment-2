@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="getTweets:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/getTweets_jar</output-path>
+    <root id="root">
+      <element id="archive" name="getTweets.jar">
+        <element id="module-output" name="getTweets" />
+      </element>
+      <element id="library" level="project" name="Maven: com.oracle:ojdbc14:9.0.2.0.0" />
+      <element id="library" level="project" name="Maven: org.twitter4j:twitter4j-stream:4.0.2" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.34" />
+      <element id="library" level="project" name="Maven: org.twitter4j:twitter4j-core:4.0.2" />
+    </root>
+  </artifact>
+</component>

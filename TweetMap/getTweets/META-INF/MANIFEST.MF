@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: mysql-connector-java-5.1.34.jar twitter4j-core-4.0.2.jar t
+ witter4j-stream-4.0.2.jar
+Main-Class: tweetmap.getTweets
+
